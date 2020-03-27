@@ -17,3 +17,4 @@ Start with your zoo project:
     * Controllers
 
 Intellij should report 100% coverage for the class you are testing in each testing class. If it does not show 100% coverage, provide a valid reason as to why!
+
